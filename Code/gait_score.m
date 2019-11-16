@@ -10,6 +10,13 @@
 % of South Florida (sarkar@mail.usf.edu).
 % Acknowledgment as appropriate is respectfully requested.
 
+% This work is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International License.
+% To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+% This technology is covered by US Patents 9,877,668 and 10,321,855
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
 %%
 % Author
 % Ravichandran Subramanian
